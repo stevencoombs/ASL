@@ -1,6 +1,5 @@
 function FindProxyForURL(url, host) {
     var bypassList = [
-        "*.asl.org",
         "*.mosyle.com", 
         "maxcdn.bootstrapcdn.com",
         "*.googleapis.com",
